@@ -9,8 +9,8 @@ This simple bat script can help you wont stop mining!
 
 ## How-To
 - Save the script bellow in the same folder that your bat is running, like keep-mining.bat.
-Remember to change [YOUR_BAT_NAME.bat] for your bat name!
-Execute and it ll keep mining!
+- Remember to change [YOUR_BAT_NAME.bat] for your bat name!
+- Execute and it ll keep mining!
 
 ```
 @echo off
